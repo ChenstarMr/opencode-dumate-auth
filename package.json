@@ -1,0 +1,10 @@
+{
+  "name": "@magpie-community/opencode-dumate-auth",
+  "version": "0.1.0",
+  "description": "OpenCode provider plugin: DuMate (百度搭子)",
+  "type": "module",
+  "main": "./index.mjs",
+  "files": ["index.mjs", "README.md"],
+  "keywords": ["opencode", "opencode-plugin", "magpie", "dumate", "baidu"],
+  "license": "MIT"
+}
