@@ -30,8 +30,10 @@ The console's 「每日签到领积分」 (+500 积分 a day) is claimed through
 ## Install
 
 ```sh
-magpie plugin add @magpie-community/opencode-dumate-auth
+magpie plugin add github:ChenstarMr/opencode-dumate-auth
 magpie plugin login dumate
 ```
+
+On npm, once published, the package is `@magpie-community/opencode-dumate-auth`.
 
 In OpenCode, add `@magpie-community/opencode-dumate-auth` to `opencode.json`'s `plugin` and run `opencode auth login`.
